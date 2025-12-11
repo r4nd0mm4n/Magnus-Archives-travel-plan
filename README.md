@@ -1,2 +1,2 @@
 # Magnus-Archives-travel-plan
-self explanatory
+the project i had the most fun making this semester
